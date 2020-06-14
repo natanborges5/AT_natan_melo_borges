@@ -16,3 +16,21 @@ C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\obj\Debug\netcoreapp3.1\
 C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\obj\Debug\netcoreapp3.1\ProgramTp3.dll
 C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\obj\Debug\netcoreapp3.1\ProgramTp3.pdb
 C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\obj\Debug\netcoreapp3.1\ProgramTp3.genruntimeconfig.cache
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\TP1 Soluçao\bin\Debug\netcoreapp3.1\ProgramTp3.exe
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\TP1 Soluçao\bin\Debug\netcoreapp3.1\ProgramTp3.deps.json
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\TP1 Soluçao\bin\Debug\netcoreapp3.1\ProgramTp3.runtimeconfig.json
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\TP1 Soluçao\bin\Debug\netcoreapp3.1\ProgramTp3.runtimeconfig.dev.json
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\TP1 Soluçao\bin\Debug\netcoreapp3.1\ProgramTp3.dll
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\TP1 Soluçao\bin\Debug\netcoreapp3.1\ProgramTp3.pdb
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\TP1 Soluçao\bin\Debug\netcoreapp3.1\AniversarioDados.dll
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\TP1 Soluçao\bin\Debug\netcoreapp3.1\AniversarioModel.dll
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\TP1 Soluçao\bin\Debug\netcoreapp3.1\AniversarioModel.pdb
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\TP1 Soluçao\bin\Debug\netcoreapp3.1\AniversarioDados.pdb
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\TP1 Soluçao\obj\Debug\netcoreapp3.1\ProgramTp3.csprojAssemblyReference.cache
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\TP1 Soluçao\obj\Debug\netcoreapp3.1\ProgramTp3.csproj.CoreCompileInputs.cache
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\TP1 Soluçao\obj\Debug\netcoreapp3.1\ProgramTp3.AssemblyInfoInputs.cache
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\TP1 Soluçao\obj\Debug\netcoreapp3.1\ProgramTp3.AssemblyInfo.cs
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\TP1 Soluçao\obj\Debug\netcoreapp3.1\ProgramTp3.csproj.CopyComplete
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\TP1 Soluçao\obj\Debug\netcoreapp3.1\ProgramTp3.dll
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\TP1 Soluçao\obj\Debug\netcoreapp3.1\ProgramTp3.pdb
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\TP1 Soluçao\obj\Debug\netcoreapp3.1\ProgramTp3.genruntimeconfig.cache

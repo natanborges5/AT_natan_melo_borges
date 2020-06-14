@@ -7,3 +7,12 @@ C:\Users\Desiree\source\repos\TP1 Soluçao\Aniversariantes\obj\Debug\netstandard
 C:\Users\Desiree\source\repos\TP1 Soluçao\Aniversariantes\obj\Debug\netstandard2.0\AniversarioModel.dll
 C:\Users\Desiree\source\repos\TP1 Soluçao\Aniversariantes\obj\Debug\netstandard2.0\AniversarioModel.pdb
 C:\Users\Desiree\source\repos\TP1 Soluçao\Aniversariantes\obj\Debug\netstandard2.0\AniversarioModel.csprojAssemblyReference.cache
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\Aniversariantes\bin\Debug\netstandard2.0\AniversarioModel.deps.json
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\Aniversariantes\bin\Debug\netstandard2.0\AniversarioModel.dll
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\Aniversariantes\bin\Debug\netstandard2.0\AniversarioModel.pdb
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\Aniversariantes\obj\Debug\netstandard2.0\AniversarioModel.csprojAssemblyReference.cache
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\Aniversariantes\obj\Debug\netstandard2.0\AniversarioModel.csproj.CoreCompileInputs.cache
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\Aniversariantes\obj\Debug\netstandard2.0\AniversarioModel.AssemblyInfoInputs.cache
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\Aniversariantes\obj\Debug\netstandard2.0\AniversarioModel.AssemblyInfo.cs
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\Aniversariantes\obj\Debug\netstandard2.0\AniversarioModel.dll
+C:\Users\Desiree\source\repos\AT_natan_melo_borges\Aniversariantes\obj\Debug\netstandard2.0\AniversarioModel.pdb
