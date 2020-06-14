@@ -1,0 +1,12 @@
+C:\Users\Desiree\source\repos\TP1 Soluçao\AniversarioDados\bin\Debug\netstandard2.0\AniversarioDados.deps.json
+C:\Users\Desiree\source\repos\TP1 Soluçao\AniversarioDados\bin\Debug\netstandard2.0\AniversarioDados.dll
+C:\Users\Desiree\source\repos\TP1 Soluçao\AniversarioDados\bin\Debug\netstandard2.0\AniversarioDados.pdb
+C:\Users\Desiree\source\repos\TP1 Soluçao\AniversarioDados\bin\Debug\netstandard2.0\AniversarioModel.dll
+C:\Users\Desiree\source\repos\TP1 Soluçao\AniversarioDados\bin\Debug\netstandard2.0\AniversarioModel.pdb
+C:\Users\Desiree\source\repos\TP1 Soluçao\AniversarioDados\obj\Debug\netstandard2.0\AniversarioDados.csprojAssemblyReference.cache
+C:\Users\Desiree\source\repos\TP1 Soluçao\AniversarioDados\obj\Debug\netstandard2.0\AniversarioDados.csproj.CoreCompileInputs.cache
+C:\Users\Desiree\source\repos\TP1 Soluçao\AniversarioDados\obj\Debug\netstandard2.0\AniversarioDados.AssemblyInfoInputs.cache
+C:\Users\Desiree\source\repos\TP1 Soluçao\AniversarioDados\obj\Debug\netstandard2.0\AniversarioDados.AssemblyInfo.cs
+C:\Users\Desiree\source\repos\TP1 Soluçao\AniversarioDados\obj\Debug\netstandard2.0\AniversarioDados.csproj.CopyComplete
+C:\Users\Desiree\source\repos\TP1 Soluçao\AniversarioDados\obj\Debug\netstandard2.0\AniversarioDados.dll
+C:\Users\Desiree\source\repos\TP1 Soluçao\AniversarioDados\obj\Debug\netstandard2.0\AniversarioDados.pdb

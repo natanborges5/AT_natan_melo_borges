@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3iYlZBuo5uASq5WyIRCD2713ZrLbGR9XvMRHSfNJ90z0ucpFuV3QVexfczruxTzdDCymO7Uo62DDhfrw/QwNLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Desiree\\source\\repos\\AT_natan_melo_borges\\Aniversariantes\\AniversarioModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desiree\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Desiree\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

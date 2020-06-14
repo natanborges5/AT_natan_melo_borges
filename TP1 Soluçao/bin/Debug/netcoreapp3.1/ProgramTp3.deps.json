@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProgramTp3/1.0.0": {
+        "dependencies": {
+          "AniversarioDados": "1.0.0",
+          "AniversarioModel": "1.0.0"
+        },
+        "runtime": {
+          "ProgramTp3.dll": {}
+        }
+      },
+      "AniversarioDados/1.0.0": {
+        "dependencies": {
+          "AniversarioModel": "1.0.0"
+        },
+        "runtime": {
+          "AniversarioDados.dll": {}
+        }
+      },
+      "AniversarioModel/1.0.0": {
+        "runtime": {
+          "AniversarioModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgramTp3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AniversarioDados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AniversarioModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

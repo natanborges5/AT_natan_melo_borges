@@ -1,0 +1,47 @@
+﻿@model IEnumerable<AniversarioModel.Aniversariantes>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<p>
+    <a asp-action="Buscar">Buscar aniversariante</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Primerino Nome</th>
+            <th>Segundo Nome</th>
+            <th>Data de Aniversario</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.primeiroNome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.segundoNome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.dataAniversario)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                </td>
+            </tr>
+        }
+
+    </tbody>
+        </tbody>
+    </table>
+</table>

@@ -1,0 +1,18 @@
+C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\obj\Debug\netcoreapp3.1\TP1 Soluçao.csprojAssemblyReference.cache
+C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\obj\Debug\netcoreapp3.1\TP1 Soluçao.csproj.CoreCompileInputs.cache
+C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\obj\Debug\netcoreapp3.1\TP1 Soluçao.AssemblyInfoInputs.cache
+C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\obj\Debug\netcoreapp3.1\TP1 Soluçao.AssemblyInfo.cs
+C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\bin\Debug\netcoreapp3.1\TP1 Soluçao.exe
+C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\bin\Debug\netcoreapp3.1\TP1 Soluçao.deps.json
+C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\bin\Debug\netcoreapp3.1\TP1 Soluçao.runtimeconfig.json
+C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\bin\Debug\netcoreapp3.1\TP1 Soluçao.runtimeconfig.dev.json
+C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\bin\Debug\netcoreapp3.1\TP1 Soluçao.dll
+C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\bin\Debug\netcoreapp3.1\TP1 Soluçao.pdb
+C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\bin\Debug\netcoreapp3.1\AniversarioDados.dll
+C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\bin\Debug\netcoreapp3.1\AniversarioModel.dll
+C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\bin\Debug\netcoreapp3.1\AniversarioModel.pdb
+C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\bin\Debug\netcoreapp3.1\AniversarioDados.pdb
+C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\obj\Debug\netcoreapp3.1\TP1 Soluçao.csproj.CopyComplete
+C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\obj\Debug\netcoreapp3.1\TP1 Soluçao.dll
+C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\obj\Debug\netcoreapp3.1\TP1 Soluçao.pdb
+C:\Users\Desiree\source\repos\TP1 Soluçao\TP1 Soluçao\obj\Debug\netcoreapp3.1\TP1 Soluçao.genruntimeconfig.cache
